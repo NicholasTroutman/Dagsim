@@ -1,0 +1,23 @@
+# python cache
+*.pyc
+*.csv
+*.gif
+*.png
+# virtual env
+venv
+
+# pycharm
+.idea/
+
+# vscode
+.vscode/
+
+# simulation data
+SimuData/
+img/
+# DS_Store
+.DS_Store
+indirect_refs.csv
+indirect_refs.csv
+.core.py.swo
+.core.py.swo
