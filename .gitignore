@@ -21,3 +21,7 @@ indirect_refs.csv
 indirect_refs.csv
 .core.py.swo
 .core.py.swo
+
+
+#Zone.Identifier
+*Zone.Identifier
